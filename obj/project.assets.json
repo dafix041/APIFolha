@@ -1692,24 +1692,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
+    "C:\\Users\\TioDo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\prova_Diogo\\Prova\\Prova.csproj",
+      "projectUniqueName": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\Prova.csproj",
       "projectName": "Prova",
-      "projectPath": "C:\\Users\\Pichau\\Desktop\\prova_Diogo\\Prova\\Prova.csproj",
-      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pichau\\Desktop\\prova_Diogo\\Prova\\obj\\",
+      "projectPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\Prova.csproj",
+      "packagesPath": "C:\\Users\\TioDo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\TioDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1762,7 +1763,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

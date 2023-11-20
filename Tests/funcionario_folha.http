@@ -29,7 +29,22 @@ Content-Type: application/json
 }
 
 ### Obtenção de todas as folhas
-GET {{base_url}}/folha/listar
+GET {{base_url}}/funcionario/listar
 
 ### Obtenção de uma folha
 GET {{base_url}}/folha/buscar/12345678912/10/2023
+
+###
+
+DELETE {{base_url}}/funcionario/deletar/6
+
+
+###
+PUT {{base_url}}/funcionario/alterar/3
+Content-Type: application/json
+
+{
+    "nome": "TESTE",
+    "cpf" : "2331231"
+   
+}
