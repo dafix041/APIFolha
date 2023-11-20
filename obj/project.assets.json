@@ -1697,11 +1697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\Prova.csproj",
+      "projectUniqueName": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sistemaFolhas\\APIFolha\\Prova.csproj",
       "projectName": "Prova",
-      "projectPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\Prova.csproj",
+      "projectPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sistemaFolhas\\APIFolha\\Prova.csproj",
       "packagesPath": "C:\\Users\\TioDo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sutdy\\APIFolha\\obj\\",
+      "outputPath": "C:\\Users\\TioDo\\OneDrive\\Área de Trabalho\\sistemaFolhas\\APIFolha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TioDo\\AppData\\Roaming\\NuGet\\NuGet.Config"
